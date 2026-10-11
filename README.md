@@ -25,7 +25,13 @@ Backend Architecture · Automated Testing · Software Engineering Best Practices
 
 ## 🚀 Projects
 
-I'm curating a portfolio of real-world projects with documentation on my role, technical decisions, and outcomes. Selected frontend work and digital platforms will be added here as they're ready to share.
+### [MOVE LAB — Responsive Marketing Landing Page](https://github.com/marcuscastrodev/move-lab)
+
+A responsive landing page for a marketing and growth mentorship program, built with HTML5, CSS3, and vanilla JavaScript. Features custom visual design, mobile navigation, animations, and a conversion-focused layout.
+
+**[Live demo](https://marcuscastrodev.github.io/move-lab/)** · **[Source code](https://github.com/marcuscastrodev/move-lab)**
+
+More real-world projects and technical case studies are being prepared.
 
 ## 💡 Beyond the Code
 
