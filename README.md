@@ -1,52 +1,61 @@
-# Hi, I'm Marcus Castro 👋
+# Hi, I'm Marcos Castro 👋
 
 **Web Developer | Valencia, Spain 🇪🇸**
 
-I build websites, landing pages, and digital platforms that connect technology, usability, and business goals.
+I build responsive websites, custom WordPress solutions, and digital platforms with a focus on usability, maintainability, and real business needs.
 
-My background in digital marketing and project management gives me a product-focused perspective. I've worked on commercial websites, publishing workflows, and integrations, and I'm continuously strengthening my software engineering skills.
+My background in digital marketing and project management helps me connect technical implementation with the people and workflows behind a product. I enjoy working across the interface, content systems, integrations, and deployment.
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-HTML5 · CSS3 · JavaScript · Responsive Web Design
+**Frontend:** HTML5 · CSS3 · JavaScript · Responsive Web Design  
+**Backend & CMS:** PHP · WordPress · Node.js · REST APIs · Serverless Functions  
+**Integrations:** Webhooks · Payment Integrations · WordPress REST API  
+**Tools & Deployment:** Git · GitHub · Netlify · npm · DNS & Domain Management
 
-**Backend & Integrations**  
-Node.js · Serverless Functions · REST APIs · Webhooks · Payment Integrations
+**Currently learning:** Automated Testing · Backend Architecture · Software Engineering Best Practices
 
-**Deployment & Infrastructure**  
-Netlify · Git · GitHub · npm · DNS & Domain Management
+## 🚀 Featured Projects
 
-**CMS & Platforms**  
-WordPress
+### 📰 [Lícia Fábio — News Portal & Editorial Platform](https://github.com/marcuscastrodev/licia-fabio-news-platform)
 
-**Currently developing**  
-Backend Architecture · Automated Testing · Software Engineering Best Practices
+A custom WordPress publishing platform developed around **three connected components**: a responsive news website, an independent editorial dashboard, and a core plugin for structured content and API integration.
 
-## 🚀 Projects
+- Custom PHP/WordPress theme for articles, categories, featured news, events, and advertising
+- Editorial dashboard for managing news, media, events, and advertisements
+- REST API integration, native WordPress authentication, and role-based permissions
+- Modular separation of presentation, content models, and publishing workflows
 
-### [MOVE LAB — Responsive Marketing Landing Page](https://github.com/marcuscastrodev/move-lab)
+**Stack:** PHP · WordPress · JavaScript · HTML · CSS · REST API
 
-A responsive landing page for a marketing and growth mentorship program, built with HTML5, CSS3, and vanilla JavaScript. Features custom visual design, mobile navigation, animations, and a conversion-focused layout.
+**[Explore the project and source code →](https://github.com/marcuscastrodev/licia-fabio-news-platform)**
+
+### 🚀 [MOVE LAB — Responsive Marketing Landing Page](https://github.com/marcuscastrodev/move-lab)
+
+A responsive landing page for a marketing and growth mentorship program, built with semantic HTML, CSS, and vanilla JavaScript.
+
+- Custom responsive layout and mobile navigation
+- Interactive elements and animations
+- Conversion-focused user experience
+
+**Stack:** HTML5 · CSS3 · JavaScript
 
 **[Live demo](https://marcuscastrodev.github.io/move-lab/)** · **[Source code](https://github.com/marcuscastrodev/move-lab)**
 
-More real-world projects and technical case studies are being prepared.
+## 💡 What I Bring
 
-## 💡 Beyond the Code
-
-I combine hands-on web development with experience in digital marketing, product strategy, project management, and business automation.
+I combine hands-on development with experience in digital marketing, product strategy, project coordination, and business automation. I care about building interfaces that work for users and systems that are practical for the teams managing them.
 
 ## 🌱 Current Focus
 
-- Building maintainable, accessible, responsive web experiences
-- Deepening JavaScript and backend fundamentals
-- Documenting practical work for developer opportunities in Europe
+- Building accessible, responsive, maintainable web experiences
+- Strengthening backend fundamentals and testing practices
+- Documenting real-world projects for web development opportunities in Europe
 
 ## 📫 Connect
 
-[GitHub: @marcuscastrodev](https://github.com/marcuscastrodev)
+[GitHub](https://github.com/marcuscastrodev) · [Lícia Fábio Project](https://github.com/marcuscastrodev/licia-fabio-news-platform) · [MOVE LAB Demo](https://marcuscastrodev.github.io/move-lab/)
 
 ---
 
-*Always learning. Focused on building useful products.*
+*Building useful digital experiences, one project at a time.*
