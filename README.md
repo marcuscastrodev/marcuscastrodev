@@ -38,6 +38,19 @@ A workspace-based SaaS prototype designed for freelancers and small teams to man
 
 > The application source remains private. The public repository presents the product, technical decisions, architecture, and documentation.
 
+### 🏨 [HQBeds — Web Experiences & Landing Pages](https://github.com/marcuscastrodev/hqbeds-web-experiences)
+
+A collection of hospitality-focused landing pages and web experiences for referral acquisition, lead generation, educational content, and multilingual campaigns.
+
+- Portuguese and Spanish referral program landing pages
+- Independent Hospitality Report 2026 download campaign
+- Summer Pricing 2027 educational campaign page
+- Focus on information architecture, user journeys, and conversion-oriented experiences
+
+**Focus:** Web development · Landing pages · UX/UI · Conversion-focused interfaces
+
+[Explore live projects and case studies →](https://github.com/marcuscastrodev/hqbeds-web-experiences)
+
 ### 📰 [Lícia Fábio — News Portal & Editorial Platform](https://github.com/marcuscastrodev/licia-fabio-news-platform)
 
 A custom WordPress publishing solution built around a reader-facing news portal, a dedicated editorial dashboard, and a core plugin for structured content.
