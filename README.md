@@ -1,5 +1,7 @@
 <div align="center">
 
+**🇺🇸 English** · [🇧🇷 Português](./README.pt-BR.md)
+
 # Hey, I'm Marcus Castro 👋
 
 ### Web developer · Full-stack builder · Product-minded creator
