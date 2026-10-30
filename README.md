@@ -1,98 +1,100 @@
-# Hi, I'm Marcus Castro 👋
+<div align="center">
 
-**Web & Full-Stack Developer | Product-Minded Builder | Valencia, Spain 🇪🇸**
+# Hey, I'm Marcus Castro 👋
 
-I build web applications, custom WordPress solutions, and responsive digital experiences that solve real business problems.
+### Web developer · Full-stack builder · Product-minded creator
 
-My background in **digital marketing and project management** brings a product perspective to engineering: understanding user needs, translating workflows into software, and thinking about usability, maintainability, and delivery.
+**Turning business problems into useful, well-designed web experiences.**
 
-Recently, I built **MOVA, by EMI**, a multi-tenant SaaS prototype for freelancers and small teams, bringing project execution and financial workflows into one product.
+📍 Valencia, Spain &nbsp;·&nbsp; 🌍 Open to international and remote opportunities
 
-**Open to web development opportunities, remote roles, freelance projects, and collaborations.**
+[![Portfolio projects](https://img.shields.io/badge/Explore_my_projects-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuscastrodev?tab=repositories)
+[![MOVA case study](https://img.shields.io/badge/Featured_case-MOVA-2563EB?style=for-the-badge)](https://github.com/marcuscastrodev/mova-showcase)
+[![Connect](https://img.shields.io/badge/Let's_connect-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuscastrodev)
 
-## Tech stack
-
-**Frontend:** Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Responsive Web Design
-
-**Backend & data:** Supabase · PostgreSQL · SQL · PHP · WordPress · WordPress REST API · REST APIs
-
-**Tooling & deployment:** Git · GitHub · Docker · Render · Netlify · Playwright
-
-**Engineering interests:** Full-stack applications · Authentication & authorization · Database design · Automated testing · Product engineering
-
-## Featured projects
-
-### 🚀 [MOVA, by EMI — Full-Stack SaaS Application](https://github.com/marcuscastrodev/mova-showcase)
-
-A workspace-based SaaS prototype designed for freelancers and small teams to manage clients, projects, tasks, calendars, partners, and financial workflows in one place.
-
-- Built with Next.js, React, TypeScript, Tailwind CSS, Supabase, and PostgreSQL
-- Workspace-based data access using authentication and Row Level Security (RLS)
-- Kanban tasks, project lifecycles, calendar events, receivables, payables, settlements, and reversals
-- Containerized with Docker and deployed on Render
-- Validated through automated checks and end-to-end testing
-
-**Tech:** Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Docker · Playwright
-
-[Explore the case study →](https://github.com/marcuscastrodev/mova-showcase) · [Private demo (access on request) →](https://mova.agenciaemi.com)
-
-> The application source remains private. The public repository presents the product, technical decisions, architecture, and documentation.
-
-### 🏨 [HQBeds — Web Experiences & Landing Pages](https://github.com/marcuscastrodev/hqbeds-web-experiences)
-
-A collection of hospitality-focused landing pages and web experiences for referral acquisition, lead generation, educational content, and multilingual campaigns.
-
-- Portuguese and Spanish referral program landing pages
-- Independent Hospitality Report 2026 download campaign
-- Summer Pricing 2027 educational campaign page
-- Focus on information architecture, user journeys, and conversion-oriented experiences
-
-**Focus:** Web development · Landing pages · UX/UI · Conversion-focused interfaces
-
-[Explore live projects and case studies →](https://github.com/marcuscastrodev/hqbeds-web-experiences)
-
-### 📰 [Lícia Fábio — News Portal & Editorial Platform](https://github.com/marcuscastrodev/licia-fabio-news-platform)
-
-A custom WordPress publishing solution built around a reader-facing news portal, a dedicated editorial dashboard, and a core plugin for structured content.
-
-- Custom theme with article, category, search, event, and homepage templates
-- Editorial interface for news, media, events, and advertising
-- WordPress REST API integration and native user permissions
-- Separation of presentation, editorial workflows, and shared content models
-
-**Tech:** PHP · WordPress · JavaScript · HTML · CSS · REST API
-
-[View project and source code →](https://github.com/marcuscastrodev/licia-fabio-news-platform)
-
-### 🎯 [MOVE LAB — Responsive Landing Page](https://github.com/marcuscastrodev/move-lab)
-
-A responsive, framework-free landing page for a marketing mentorship initiative.
-
-- Responsive layout, navigation, and interactive elements
-- Semantic HTML, custom CSS, and vanilla JavaScript
-- Conversion-focused interface; demo form does not submit data
-
-**Tech:** HTML5 · CSS3 · JavaScript
-
-[Live demo →](https://marcuscastrodev.github.io/move-lab/) · [Source code →](https://github.com/marcuscastrodev/move-lab)
-
-## What I bring to a team
-
-- **Full-stack product thinking:** connecting user needs, interface design, data models, and business workflows
-- **Web development:** building responsive applications, landing pages, and content-driven platforms
-- **Cross-functional experience:** collaborating across development, marketing, content, and project delivery
-- **Ownership:** taking projects from requirements and implementation through testing and deployment
-
-## Currently focused on
-
-- Deepening my skills in full-stack JavaScript and TypeScript development
-- Building secure, maintainable, accessible web applications
-- Strengthening software architecture, automated testing, and deployment practices
-
-## Get in touch
-
-Interested in collaborating or discussing a development opportunity? Reach out through [my GitHub profile](https://github.com/marcuscastrodev).
+</div>
 
 ---
 
-*Marcus Castro · Web & Full-Stack Development · Valencia, Spain*
+## About me
+
+I'm a web developer with a background in **digital marketing, UX, and project management**. I enjoy working across the full product journey: understanding a problem, shaping the user experience, building the interface, connecting data, and getting the result online.
+
+My work ranges from **responsive websites and custom WordPress platforms** to a **multi-tenant SaaS prototype** built with Next.js, TypeScript, and PostgreSQL.
+
+**What sets my approach apart:** I think about the people using the software *and* the business problem it needs to solve.
+
+## Toolbox
+
+<div align="center">
+
+**Frontend & UI**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend, content & data**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![REST API](https://img.shields.io/badge/REST_APIs-444444?style=flat-square)
+
+**Workflow & delivery**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+</div>
+
+## Selected work
+
+| Project | What I built / worked on | Stack & links |
+| :--- | :--- | :--- |
+| **🚀 MOVA, by EMI**<br>Full-stack SaaS prototype | A workspace-based system for clients, projects, Kanban tasks, calendars, collaborators, and financial workflows. Includes role-based access and PostgreSQL Row Level Security. | **Next.js · TypeScript · Supabase · PostgreSQL**<br>[Case study](https://github.com/marcuscastrodev/mova-showcase) · [Private demo](https://mova.agenciaemi.com) |
+| **📰 Lícia Fábio**<br>News & editorial platform | A custom WordPress theme, editorial workspace, and reusable content plugin, with REST API integration and capability-based permissions. | **PHP · WordPress · JavaScript**<br>[Source & case study](https://github.com/marcuscastrodev/licia-fabio-news-platform) · [Website](https://liciafabio.com.br/) |
+| **🏨 HQBeds**<br>Web experiences | Hospitality landing pages and multilingual campaigns focused on clear user journeys, lead generation, and conversion-oriented interfaces. | **Responsive UI · UX · Landing pages**<br>[Case studies & live pages](https://github.com/marcuscastrodev/hqbeds-web-experiences) |
+| **🎯 MOVE LAB**<br>Responsive landing page | A framework-free website with accessible mobile navigation, interactive sections, and a demonstration-only form. | **HTML · CSS · JavaScript**<br>[Live demo](https://marcuscastrodev.github.io/move-lab/) · [Source](https://github.com/marcuscastrodev/move-lab) |
+
+<sub>Some client and product projects are presented as case studies rather than public production source repositories. MOVA's live demonstration requires access on request.</sub>
+
+## How I approach development
+
+```text
+Understand the problem  →  Design the experience
+           ↓                         ↓
+   Define the workflow   →   Build & integrate
+                                     ↓
+                             Test, ship & iterate
+```
+
+- **Product thinking:** connect technical decisions to user needs and business goals.
+- **Frontend craft:** prioritize responsive layouts, accessible interactions, and clear information hierarchy.
+- **Full-stack implementation:** work with authentication, authorization, APIs, and relational data.
+- **Real-world delivery:** document trade-offs, test important flows, and ship maintainable solutions.
+
+## What I'm working toward
+
+I'm continuing to grow as a **web and full-stack developer**, with a particular interest in **design engineering, product development, and the intersection of technology and digital strategy**.
+
+I’m open to **junior web/full-stack roles, design-engineering opportunities, remote collaborations, and selected freelance projects**.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+**Explore the projects above or reach out through my [GitHub profile](https://github.com/marcuscastrodev).**
+
+<sub>Built with curiosity, product thinking, and a commitment to keep learning.</sub>
+
+</div>
