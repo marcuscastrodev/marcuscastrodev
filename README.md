@@ -1,6 +1,6 @@
 <div align="center">
 
-**🇺🇸 English** · [🇧🇷 Português](./README.pt-BR.md)
+**🇺🇸 English** · [🇧🇷 Português](./README.pt-BR.md) · [🇪🇸 Español](./README.es.md)
 
 # Hey, I'm Marcus Castro 👋
 
