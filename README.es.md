@@ -10,8 +10,11 @@
 
 📍 Valencia, España · 🌍 Abierto a oportunidades internacionales y remotas
 
+[![Portafolio en previa](https://img.shields.io/badge/Portafolio_en_previa-D65E42?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-marcuscastrodev.vercel.app)
 [![Explorar proyectos](https://img.shields.io/badge/Explorar_proyectos-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuscastrodev?tab=repositories)
 [![Caso MOVA](https://img.shields.io/badge/Proyecto_destacado-MOVA-2563EB?style=for-the-badge)](https://github.com/marcuscastrodev/mova-showcase)
+
+<sub>🔒 Portafolio en vista previa (requiere iniciar sesión en Vercel hasta el lanzamiento público).</sub>
 
 </div>
 
