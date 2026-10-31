@@ -10,9 +10,12 @@
 
 📍 Valencia, Spain &nbsp;·&nbsp; 🌍 Open to international and remote opportunities
 
+[![Portfolio preview](https://img.shields.io/badge/Portfolio_preview-D65E42?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-marcuscastrodev.vercel.app)
 [![Explore projects](https://img.shields.io/badge/Explore_projects-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuscastrodev?tab=repositories)
 [![Featured case](https://img.shields.io/badge/Featured_case-MOVA-2563EB?style=for-the-badge)](https://github.com/marcuscastrodev/mova-showcase)
 [![Live project](https://img.shields.io/badge/Live_project-Entre_Destinos-0F766E?style=for-the-badge)](https://entredestinosmm.com/)
+
+<sub>🔒 Portfolio preview (Vercel sign-in required until public launch).</sub>
 
 </div>
 
