@@ -10,12 +10,10 @@
 
 📍 Valência, Espanha &nbsp;·&nbsp; 🌍 Aberto a oportunidades internacionais e remotas
 
-[![Sitefolio em previa](https://img.shields.io/badge/Sitefolio_em_previa-D65E42?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-marcuscastrodev.vercel.app)
+[![Ver sitefólio](https://img.shields.io/badge/Ver_sitefolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-marcuscastrodev.vercel.app)
 [![Explorar projetos](https://img.shields.io/badge/Explorar_projetos-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuscastrodev?tab=repositories)
 [![Case em destaque](https://img.shields.io/badge/Case_em_destaque-MOVA-2563EB?style=for-the-badge)](https://github.com/marcuscastrodev/mova-showcase)
 [![Projeto no ar](https://img.shields.io/badge/Projeto_no_ar-Entre_Destinos-0F766E?style=for-the-badge)](https://entredestinosmm.com/)
-
-<sub>🔒 Sitefólio em prévia (exige login na Vercel até a abertura pública).</sub>
 
 </div>
 
