@@ -46,6 +46,7 @@ My portfolio spans a **multi-tenant SaaS product**, a **content and commerce pla
 
 - **[HQBeds web experiences](https://github.com/marcuscastrodev/hqbeds-web-experiences):** multilingual hospitality landing pages, research-led lead generation, and conversion-oriented interfaces.
 - **[MOVE LAB](https://github.com/marcuscastrodev/move-lab):** a framework-free responsive landing page with accessible navigation and vanilla JavaScript interactions.
+- **[Mobile-first Experiences](https://github.com/marcuscastrodev/mobile-first-experiences-showcase):** three mobile-first web experiences — a personal brand page, a digital celebration and a mobile link hub — each designed around a different communication goal.
 
 <sub>Some client and product work is presented through public case studies while production source, credentials, customer information, and proprietary assets remain private.</sub>
 

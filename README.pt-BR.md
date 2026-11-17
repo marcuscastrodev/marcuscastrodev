@@ -46,6 +46,7 @@ Meu portfólio reúne um **produto SaaS multi-tenant**, uma **plataforma de cont
 
 - **[Experiências web para HQBeds](https://github.com/marcuscastrodev/hqbeds-web-experiences):** landing pages multilíngues para hotelaria, geração de leads baseada em conteúdo e interfaces orientadas à conversão.
 - **[MOVE LAB](https://github.com/marcuscastrodev/move-lab):** landing page responsiva sem frameworks, com navegação acessível e interações em JavaScript puro.
+- **[Mobile-first Experiences](https://github.com/marcuscastrodev/mobile-first-experiences-showcase):** três experiências web mobile-first — uma página de marca pessoal, uma celebração digital e um hub de links mobile —, cada uma pensada para um objetivo de comunicação diferente.
 
 <sub>Alguns projetos de clientes e produtos são apresentados por meio de estudos de caso públicos, enquanto código de produção, credenciais, informações de clientes e ativos proprietários permanecem privados.</sub>
 

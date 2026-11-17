@@ -40,6 +40,7 @@ Mis proyectos incluyen **sitios web responsivos y plataformas WordPress personal
 | **📰 Lícia Fábio** | Tema WordPress personalizado, espacio de trabajo editorial y plugin de contenido reutilizable con API REST y permisos por capacidades. | PHP · WordPress · JavaScript · [Código y caso](https://github.com/marcuscastrodev/licia-fabio-news-platform) |
 | **🏨 HQBeds** | Landing pages y campañas multilingües para el sector hotelero, centradas en el recorrido del usuario, los leads y la conversión. | UX · Diseño responsivo · [Casos](https://github.com/marcuscastrodev/hqbeds-web-experiences) |
 | **🎯 MOVE LAB** | Landing page sin frameworks, navegación móvil accesible, secciones interactivas y formulario de demostración. | HTML · CSS · JavaScript · [Demo](https://marcuscastrodev.github.io/move-lab/) · [Código](https://github.com/marcuscastrodev/move-lab) |
+| **📱 Mobile-first Experiences** | Tres experiencias web mobile-first — una página de marca personal, una celebración digital y un hub de enlaces móvil —, cada una pensada para un objetivo de comunicación distinto. | HTML · CSS · JavaScript · [Caso](https://github.com/marcuscastrodev/mobile-first-experiences-showcase) |
 
 <sub>Algunos productos y proyectos de clientes se presentan como casos de estudio, sin publicar el código privado de producción.</sub>
 
